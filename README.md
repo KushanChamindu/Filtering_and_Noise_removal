@@ -16,9 +16,9 @@ Input image
 Noise Filtering
 Contains following noise filters. Used image wrapping for the edge pixels. Programme automatically read all JPG/JPEG files in the directory and produce filtered image.
 
-Mean filter
-Median filter
-Mid-point filter
+* Mean filter
+* Median filter
+* Mid-point filter
 
 Implementation Details
 Open CV library only for read/write the image file.
